@@ -1,0 +1,44 @@
+.fondoItem{
+             background-color: #ff111328;
+             height: 130px;
+             border-radius: 20px;
+             color: white;
+}
+
+
+.sex{
+             font-size: 40px;
+}
+
+.numberStyle{
+             font-size: 32px;
+             font-weight: 800px;
+             margin-top: -30px;
+
+}
+
+.centrimetro{
+             font-size: 16px;
+             font-weight: 400px;
+             margin-left: -10px;
+}
+
+.form-range{
+             padding: 0px 20px;
+}
+
+input[type=range]::-webkit-slider-thumb{
+             background: #FF3366;
+}
+
+.sumRest{
+             cursor: pointer;
+             background-color: #FF4C4F5E;
+             padding: 7px;
+             border-radius: 15px;
+             margin-left: 3px;
+}
+
+.sexDesactive{
+             background-color: #7D2F2F33;
+}
